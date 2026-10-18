@@ -4,7 +4,7 @@
 
 ## Hi, I'm Shiva 👋
 
-I'm an AI engineer from India. I build the whole stack of an AI agent system: the models, the tools, the memory, the orchestration, and the backend, frontend and deployment around them. I run [AxonCrew](https://axoncrew.com), an AI agents and automation studio, and I'm moving my personal projects into the open here.
+I'm an AI engineer from India. I build the whole stack of an AI agent system: the models, the tools, the memory, the orchestration, and the backend, frontend and deployment around them. I'm moving my personal projects into the open here.
 
 ## What I do
 
@@ -22,7 +22,7 @@ A satirical virtual nation where citizens are real people and the government is 
 
 ### NanoCrew &nbsp;<sub>(open-source release coming)</sub>
 A platform for running a crew of AI agents. Each agent has its own identity, memory, tools and schedule, works inside a Docker sandbox, and hands tasks to the others. You manage the crew from a web dashboard, with approvals for sensitive actions and any model behind a LiteLLM gateway.
-`TypeScript` · `Python` · `Docker` · [**product → crew.axoncrew.com**](https://crew.axoncrew.com)
+`TypeScript` · `Python` · `Docker`
 
 ### Next up
 `Navarya` · `Horoscope` · `Waterfall` — going public soon, more after that.
@@ -40,4 +40,4 @@ A platform for running a crew of AI agents. Each agent has its own identity, mem
 
 ## Find me
 
-[🌍 axoncrew.com](https://axoncrew.com) · [💼 LinkedIn](https://www.linkedin.com/in/shiva-saini-066157253)
+[💼 LinkedIn](https://www.linkedin.com/in/shiva-saini-066157253)
