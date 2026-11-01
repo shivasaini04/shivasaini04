@@ -24,6 +24,6 @@
 <text x="80" y="150" class="t name">Shiva Saini</text>
 <text x="82" y="205" class="t role">AI engineer · I build agent systems end to end</text>
 <text x="82" y="248" class="t sub">LLMs, tools, memory, orchestration, backend, frontend and deployment.</text>
-<text x="82" y="280" class="t sub">Building in the open: Memeostan and NanoCrew.</text>
+<text x="82" y="280" class="t sub">Open source: NanoCrew · Memeostan · Sindara · Voice.</text>
 <g transform="translate(80,318)"><rect width="113" height="34" rx="17" class="chip"/><text x="56" y="22" text-anchor="middle" class="chiptxt">AI agents</text></g><g transform="translate(204.8,318)"><rect width="122" height="34" rx="17" class="chip"/><text x="61" y="22" text-anchor="middle" class="chiptxt">Full-stack</text></g><g transform="translate(338.8,318)"><rect width="122" height="34" rx="17" class="chip"/><text x="61" y="22" text-anchor="middle" class="chiptxt">TypeScript</text></g><g transform="translate(472.8,318)"><rect width="85" height="34" rx="17" class="chip"/><text x="43" y="22" text-anchor="middle" class="chiptxt">Python</text></g><g transform="translate(570.0,318)"><rect width="85" height="34" rx="17" class="chip"/><text x="43" y="22" text-anchor="middle" class="chiptxt">Docker</text></g>
 </svg>
